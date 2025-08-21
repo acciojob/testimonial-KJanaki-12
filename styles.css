@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 section{
 	background-color: #f5f5f5;
+	padding: 40px;
 }
 
 h1{
@@ -9,7 +10,7 @@ h1{
 }
 
 div{
-	border: 1px solid rgba(fff,1);
+	border: 1px solid #ddd;
 	background-color: white;
 	margin: 20px;
 	padding: 10px;
